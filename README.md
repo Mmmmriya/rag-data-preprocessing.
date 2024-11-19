@@ -39,6 +39,8 @@ Run the following command in the first cell to install dependencies:
 ```bash
 !pip install faiss-cpu sentence-transformers transformers ctransformers
 
+---
+
 ### **3. Download the Model**
 
 Download the TinyLLaMA GGUF model from Hugging Face:
