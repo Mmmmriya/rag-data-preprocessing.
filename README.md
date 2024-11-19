@@ -32,7 +32,7 @@ This project implements a **Retrieval-Augmented Generation (RAG)** system for au
 ## **Setup and Usage in Google Colab**
 
 ### **1. Open the Colab File**
-Upload the provided `.ipynb` Colab notebook file to Google Colab or start a new notebook and paste the cleaned code.
+Upload the provided `.ipynb` Colab notebook file to Google Colab or start a new notebook and paste the code.
 
 ### **2. Install Required Libraries**
 Run the following command in the first cell to install dependencies:
