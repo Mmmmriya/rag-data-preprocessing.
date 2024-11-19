@@ -36,3 +36,6 @@ This project implements a **Retrieval-Augmented Generation (RAG)** system for au
 ```bash
 git clone https://github.com/your-username/rag-data-preprocessing.git
 cd rag-data-preprocessing
+### **2. Install Required Dependencies**
+```bash
+pip install -r requirements.txt
